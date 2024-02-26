@@ -1,5 +1,3 @@
 lovlesh developer
 linux is operating system
-
-
 hello world
