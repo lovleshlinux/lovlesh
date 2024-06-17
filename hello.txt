@@ -1,4 +1,3 @@
 hello ducat
 linux is operating system
-
-hhhh
+hello devops engineer
